@@ -1,4 +1,4 @@
-/* meu css top dp da página */
+﻿/* meu css top dp da página */
 
 body{
     background-image: url(../imagem/plano.jpg);
@@ -135,4 +135,16 @@ footer ul li{
     bottom: 200px;
     position: relative;
     margin-right: 20px;
+}
+
+/* hover nos botoes*/
+
+
+.but2:hover{
+   background-color: #37f337;
+   opacity: 0.55; 
+}
+
+.but1:hover{
+   background-color: #0000ff6e;
 }
